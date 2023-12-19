@@ -47082,3 +47082,7 @@ a.course-title {
 .unit-body.event-post {
 	min-height: 220px;
 }
+
+article.post-course.director-board {
+	min-height: 670px;
+}
